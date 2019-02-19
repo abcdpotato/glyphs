@@ -1,4 +1,4 @@
-#MenuTitle: Apply Stolen kerning
+#MenuTitle: Apply Stolen kerning Data
 # based on Mekkablue's Steal kerning from InDesign.py
 # -*- coding: utf-8 -*-
 __doc__="""
